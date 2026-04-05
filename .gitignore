@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+
+# Data and outputs (SNL licence)
+data/
+outputs/
+
+# Notebooks (scripts only)
+*.ipynb
+
+# macOS
+.DS_Store
